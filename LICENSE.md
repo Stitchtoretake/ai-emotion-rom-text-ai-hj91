@@ -1,4 +1,4 @@
-# 
+# Avanzado AI Emotion Detection from Text herramientas. Con aumento de datos y visión por computadora — optimizado para el máximo rendimiento.
 
 
 
